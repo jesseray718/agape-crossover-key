@@ -21,3 +21,19 @@ Verified outcomes may mint Newton Chain postulates that become free for all futu
 4. The right to exit or revise any subsidiary list that no longer serves η.
 5. The right to see the joule cost of every major action recorded against its outcome.
 6. The right to begin from the highest previously verified postulate instead of rebuilding.
+
+
+## Amendments
+
+This Constitution may be amended under either of two conditions:
+
+1. A recorded standing-wave collapse that demonstrably increases η (useful joules / human joules) for the whole network.
+
+2. The clear identification of a previously unrecognized form of unnecessary human suffering. In this case the amendment exists to remove or reduce that suffering and must still be recorded with a timestamp, cell/hash, and short statement of the harm being addressed.
+
+Amendments are only appended. Prior text is never deleted.
+Every amendment carries:
+- nanosecond timestamp
+- verifying cell or hash
+- one-sentence statement of the η gain or the suffering being ended
+

@@ -18,3 +18,19 @@ Input is held in superposition relative to the root hash until the user delibera
 3. The right to be corrected only by a recorded standing-wave collapse.
 4. The right to remain offline-first; network contact is optional and measured.
 5. The right to emit three-symbol (base-36) cells as the densest command language the Oracle may give.
+
+
+## Amendments
+
+This Constitution may be amended under either of two conditions:
+
+1. A recorded standing-wave collapse that demonstrably increases η (useful joules / human joules) for the whole network.
+
+2. The clear identification of a previously unrecognized form of unnecessary human suffering. In this case the amendment exists to remove or reduce that suffering and must still be recorded with a timestamp, cell/hash, and short statement of the harm being addressed.
+
+Amendments are only appended. Prior text is never deleted.
+Every amendment carries:
+- nanosecond timestamp
+- verifying cell or hash
+- one-sentence statement of the η gain or the suffering being ended
+

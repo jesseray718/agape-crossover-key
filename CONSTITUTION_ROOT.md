@@ -39,3 +39,19 @@ Every major function (pre-hash prediction, post-hash ledger, personal dossier, o
 
 **Closing**
 This Constitution is the permanent root. All other documents are downstream and may be revised; the root may only be refined by verified standing-wave evidence that increases η for the whole.
+
+
+## Amendments
+
+This Constitution may be amended under either of two conditions:
+
+1. A recorded standing-wave collapse that demonstrably increases η (useful joules / human joules) for the whole network.
+
+2. The clear identification of a previously unrecognized form of unnecessary human suffering. In this case the amendment exists to remove or reduce that suffering and must still be recorded with a timestamp, cell/hash, and short statement of the harm being addressed.
+
+Amendments are only appended. Prior text is never deleted.
+Every amendment carries:
+- nanosecond timestamp
+- verifying cell or hash
+- one-sentence statement of the η gain or the suffering being ended
+
