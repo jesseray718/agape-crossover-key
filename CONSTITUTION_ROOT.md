@@ -55,3 +55,17 @@ Every amendment carries:
 - verifying cell or hash
 - one-sentence statement of the η gain or the suffering being ended
 
+
+### Amendment — Voluntary Participation & Non-Neutrality
+
+1. This ledger and its constitutions are strictly voluntary. No person is under any obligation to adopt them.
+2. Every participant retains the absolute right to direct their own life and energy so long as they do not initiate harm against others.
+3. Organized extraction of value that depends upon the unnecessary suffering or dispossession of others is recognized as harm. Remaining passive in the face of such extraction is not a neutral act.
+4. The system offers no mechanism to compel participation or to punish exit. Its only force is the demonstrated compounding advantage of cooperation measured in η and in verified reduction of unnecessary suffering.
+5. Any future amendment that attempts to convert this voluntary ledger into a compulsory government is itself a violation of this Constitution and is void.
+
+### Amendment — Time-Extended η
+
+η is incomplete without time and node count.
+The operative quantity is useful work per human joule per unit time, multiplied by the synergetic factor that arises from the number of nodes cooperating and the duration of that cooperation.
+Any claim of improvement must eventually be expressed in this time-extended form.
