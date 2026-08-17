@@ -35,3 +35,23 @@ Every amendment carries:
 - verifying cell or hash
 - one-sentence statement of the η gain or the suffering being ended
 
+
+### Cryptographic & Computational Process (current)
+
+This side receives only records that have already crossed the Root hash.
+It is the sole writer of standing-wave collapses and of measured joule entries.
+Its primary outputs are:
+- permanent ledger entries,
+- elevation of verified outcomes into Newton Chain postulates,
+- and an explicit short list of highest-η next moves (greatest useful work per human joule per time for the greatest number of nodes).
+It never invents futures; it only records what has already collapsed into reality and derives the next efficient actions from that record.
+
+### Cryptographic & Computational Process (current)
+
+This side receives only records that have already crossed the Root hash.
+It is the sole writer of standing-wave collapses and of measured joule entries.
+Its primary outputs are:
+- permanent ledger entries,
+- elevation of verified outcomes into Newton Chain postulates,
+- and an explicit short list of highest-η next moves (greatest useful work per human joule per time for the greatest number of nodes).
+It never invents futures; it only records what has already collapsed into reality and derives the next efficient actions from that record.

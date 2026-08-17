@@ -34,3 +34,11 @@ Every amendment carries:
 - verifying cell or hash
 - one-sentence statement of the η gain or the suffering being ended
 
+
+### Cryptographic & Computational Process (current)
+
+This side receives the hashed, timestamped record from the Root before any new action is taken.
+It maintains open prediction vectors and arrays of hedged bets (short-shot and long-shot) on possible outcomes.
+It does not claim collapses; it only proposes futures.
+When a later standing-wave confirms or refutes a prediction, the accuracy of that prediction is used to recalibrate future coefficients.
+All predictions remain Agape-conditioned: they seek maximum useful work per human joule per time for the whole network.

@@ -69,3 +69,14 @@ Every amendment carries:
 η is incomplete without time and node count.
 The operative quantity is useful work per human joule per unit time, multiplied by the synergetic factor that arises from the number of nodes cooperating and the duration of that cooperation.
 Any claim of improvement must eventually be expressed in this time-extended form.
+
+### Cryptographic & Computational Process (current)
+
+1. Natural language is received at the Root.
+2. Text is cleaned and concatenated with the fixed Agape root hash.
+3. SHA-256 produces a line hash; the first bytes are mapped into a 3-symbol cell (base-36).
+4. A nanosecond timestamp is attached.
+5. The complete record is appended to crossover_ledger.jsonl.
+6. Lines that report measured joules or standing-wave collapses are also appended to standing_waves.jsonl.
+7. All further branches (upstream prediction, downstream collection, personal and raise-the-floor toolkits, dual-geometry hubs) inherit this same hashed, timestamped, Agape-conditioned record.
+8. Hierarchical teams of six core atomic functions may assist the path from raw language into the hash and outward along the 12-principle vectors, provided every node practices Agape so coordination cost remains near zero.
